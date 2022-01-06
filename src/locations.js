@@ -1,7 +1,7 @@
 export default[{
     "id": 1,
     "location":"Dubai",
-    "country": "United Arab Emirates",
+    "country": "UAE",
     "image":"dubai.jpg",
     "description":"Dubai is a city of skyscrapers, ports, and beaches, where big business takes place alongside sun-seeking tourism. Because of its large expatriate population, it feels like a Middle Eastern melting pot, and the atmosphere is generally tolerant. Religious affiliations are not a prominent aspect of city life.",
     "map": "https://goo.gl/maps/iiP5gF2fiEK1uVme7"
@@ -27,10 +27,10 @@ export default[{
     },
 {
     "id": 4,
-    "location":"Madrid",
-    "country":"Spain",
-    "image":"madrid.jpg",
-    "description":"Madrid, Spain's central capital, is a city of elegant boulevards and expansive, manicured parks such as the Buen Retiro. It’s renowned for its rich repositories of European art, including the Prado Museum’s works by Goya, Velázquez and other Spanish masters. ",
-    "map": "https://goo.gl/maps/UmmCmQ54SJaTcAn17"
+    "location":"Mexico City",
+    "country":"Mexico",
+    "image":"mexico.jpg",
+    "description":"Mexico City is the densely populated, high-altitude capital of Mexico. It's known for its Templo Mayor (a 13th-century Aztec temple), the baroque Catedral Metropolitana de México of the Spanish conquistadors and the Palacio Nacional, which houses historic murals by Diego Rivera. All of these are situated in and around the Plaza de la Constitución, the massive main square also known as the Zócalo",
+    "map": "https://goo.gl/maps/mmipnDgkFcBAPiAV8"
     }
 ]
